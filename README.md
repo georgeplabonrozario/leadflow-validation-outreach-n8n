@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Lead%20Validation%20%26%20Outreach&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Clean%20the%20list.%20Keep%20the%20good%20leads.%20Email%20them.&descAlignY=62&descSize=16" width="100%" alt="Lead Validation and Outreach"/>
+<h1>LeadFlow</h1>
+
+<img src="https://img.shields.io/badge/LeadFlow-Lead_Validation_%26_Outreach-7C3AED?style=for-the-badge&labelColor=EC4899" alt="LeadFlow: Lead Validation and Outreach"/>
+
+<p><i>Clean the list. Keep the good leads. Email them.</i></p>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -15,7 +19,7 @@
 
 Lead lists collected from forms, scrapers or events are messy. They hold duplicates, broken email addresses, empty fields and dates in five different formats. Sending outreach to that list wastes time and hurts sender reputation.
 
-This n8n workflow takes a raw Excel lead file, cleans and validates it, separates good leads from bad ones, and sends an email only to the good ones.
+LeadFlow is an n8n workflow that takes a raw Excel lead file, cleans and validates it, separates good leads from bad ones, and sends an email only to the good ones.
 
 ## What it does
 
